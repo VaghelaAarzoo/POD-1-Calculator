@@ -2,6 +2,8 @@ public class Calculator{
     public static int add(int firstNumber, int secondNumber){
         return firstNumber+secondNumber;
     }
+    //adding two integers.
+    //using plus operator
 
     public static int multiply(int firstNumber, int secondNumber){
         return firstNumber*secondNumber;
